@@ -1,0 +1,56 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual Environment
+venv/
+env/
+hackenv/
+.venv/
+
+# ------------------------------
+# IDEs
+# ------------------------------
+.vscode/
+.idea/
+
+# ------------------------------
+# OS Files
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# Logs
+# ------------------------------
+*.log
+
+# ------------------------------
+# Jupyter Notebook
+# ------------------------------
+.ipynb_checkpoints/
+
+# ------------------------------
+# Audio Files (Optional)
+# Uncomment if you don’t want to upload audio files
+# ------------------------------
+# audio/
+# *.mp3
+# *.wav
+
+# ------------------------------
+# OpenCV temp files
+# ------------------------------
+*.avi
+*.mp4
