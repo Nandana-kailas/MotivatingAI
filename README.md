@@ -118,10 +118,13 @@ Sad: 0.12 | Happy: 0.78 | Neutral: 0.10
 🔥 Final Emotion: HAPPY
 Playing: audio/happy/dialogue1.mp3
 
-👩‍💻 Author
+👩‍💻 Authors
 
 Nandana Kailas
 KTU Student | AI & Computer Vision Enthusiast
+
+Sharon Elsa Binu
+Project Contributor | Development & Testing Support
 
 📄 License
 
