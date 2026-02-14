@@ -1,0 +1,5 @@
+streamlite
+opencv-python
+fer
+pygame
+numpy
