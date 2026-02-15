@@ -1,6 +1,6 @@
 🎭 MOTIVATING AI
-👥 Team Name: GEMS
 
+👥 Team Name: GEMS_C
 
 
 👩‍💻 Team Members
@@ -143,6 +143,8 @@ Screenshot2:   https://github.com/Nandana-kailas/MotivatingAI/blob/main/Screensh
 Screenshot3:   https://github.com/Nandana-kailas/MotivatingAI/blob/main/Screenshot%202026-02-15%20093753.png
 
 Screenshot4:   https://github.com/Nandana-kailas/MotivatingAI/blob/main/Screenshot%202026-02-15%20093815.png
+
+Demo Video: https://github.com/Nandana-kailas/MotivatingAI/blob/main/demo.mp4
 
 🔮 Future Improvements
 
