@@ -1,5 +1,8 @@
 🎭 MOTIVATING AI
 👥 Team Name: GEMS
+
+
+
 👩‍💻 Team Members
 
 Nandana Kailas – Saintgits College of Engineering
@@ -77,9 +80,11 @@ MotivatingAI/
 ⚙️ Installation
 1️⃣ Clone the Repository
 git clone https://github.com/Nandana-kailas/MotivatingAI.git
+
 cd MotivatingAI
 
 2️⃣ Create Virtual Environment (Recommended)
+
 python -m venv venv
 
 
@@ -88,6 +93,7 @@ Activate (Windows):
 venv\Scripts\activate
 
 3️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 
@@ -96,6 +102,7 @@ If requirements.txt is missing:
 pip install opencv-python fer mtcnn pygame numpy
 
 ▶️ Run the Project
+
 python app.py
 
 
@@ -126,6 +133,17 @@ Sad: 0.12 | Happy: 0.78 | Neutral: 0.10
 🔥 Final Emotion: HAPPY  
 🔊 Playing: audio/happy/dialogue1.mp3
 
+
+Demo Output & Results
+
+Screenshot1:   https://github.com/Nandana-kailas/MotivatingAI/blob/main/Screenshot%202026-02-15%20093715.png
+
+Screenshot2:   https://github.com/Nandana-kailas/MotivatingAI/blob/main/Screenshot%202026-02-15%20093728.png
+
+Screenshot3:   https://github.com/Nandana-kailas/MotivatingAI/blob/main/Screenshot%202026-02-15%20093753.png
+
+Screenshot4:   https://github.com/Nandana-kailas/MotivatingAI/blob/main/Screenshot%202026-02-15%20093815.png
+
 🔮 Future Improvements
 
 Add more emotions (Angry, Disgust, Surprise)
@@ -138,9 +156,10 @@ Expand Malayalam movie dialogue database 🎬
 
 Convert into desktop executable (.exe)
 
-Deploy as web-based application
+
 
 👩‍💻 Team Contributions
+
 🔹 Sharon Elsa Binu
 
 Core emotion detection logic
