@@ -64,21 +64,25 @@ Pygame – Audio playback
 
 NumPy
 
-📂 Project Structure
+📂 Workflow
 MotivatingAI/
 │
 ├── audio/
 │   ├── happy/
 │   ├── sad/
 │   └── lazy/
-│
-├── emotion_bot.py
+│   └── surprise/
 ├── app.py
 ├── requirements.txt
 └── README.md
 
+User Diagram:
+
+https://github.com/Nandana-kailas/MotivatingAI/blob/main/userdiagram.jpeg
+
 ⚙️ Installation
 1️⃣ Clone the Repository
+
 git clone https://github.com/Nandana-kailas/MotivatingAI.git
 
 cd MotivatingAI
